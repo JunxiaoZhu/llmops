@@ -1,0 +1,3 @@
+# extension
+
+Flask扩展文件目录

@@ -1,0 +1,6 @@
+# 在此文件中配置需要git忽略的文件
+.env
+.idea/*
+tmp/*
+storage/*
+env/*
